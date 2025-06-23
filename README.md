@@ -5,7 +5,7 @@
 - [Data Sources](#data-sources)
 - [Tools](tools)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-- [Exploring Data Analysis](#exploring-data-analysis)
+- [Exploring Data Analysis (EDA)](#exploring-data-analysis-(eda))
 - [Data Analysis](#data-analysis)
 - [Results/Findings](#results/findings)
 - [Recommendations](#recommendations)
