@@ -5,7 +5,7 @@
 - [Data Sources](#data-sources)
 - [Tools](tools)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-- [Exploring Data Analysis (EDA)](#exploring-data-analysis-(eda))
+- [Exploring Data Analysis](#exploring-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Results/Findings](#results/findings)
 - [Recommendations](#recommendations)
@@ -41,7 +41,7 @@ In the initial data preparation phase, we performed the following tasks:
 2. Handling missing values.
 3. Data cleaning and formatting.
 
-### Exploring Data Analysis (EDA)
+### Exploring Data Analysis
 
 EDA involved exploring the HR data to answer key questions, such as:
 
