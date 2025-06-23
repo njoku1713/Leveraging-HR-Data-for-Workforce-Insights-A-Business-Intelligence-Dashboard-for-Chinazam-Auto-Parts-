@@ -25,12 +25,7 @@ The purpose of this project is to provide Human Resource (HR) managers with acti
 
 - Enable data-driven decisions for HR policies and talent management strategies.
 
-
-
 ![Overall Dashboard](https://github.com/user-attachments/assets/9778aaa4-a234-4da7-aa0d-c956586d6f55)
-![Dash 3](https://github.com/user-attachments/assets/40cf70de-52b9-455c-8782-74af9fb65c61)
-![Dash 2](https://github.com/user-attachments/assets/fc5e7abe-62d6-49c8-8fe4-31f5765fe172)
-![Dash 4](https://github.com/user-attachments/assets/ebbd34a0-d92a-4218-8169-121d48d36052)
 
 ### Data Sources
 
