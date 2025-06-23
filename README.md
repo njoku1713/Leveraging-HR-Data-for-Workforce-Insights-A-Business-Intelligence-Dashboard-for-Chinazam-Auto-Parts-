@@ -5,6 +5,11 @@
 - [Data Sources](#data-sources)
 - [Tools](tools)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploring Data Analysis](#exploring-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results/Findings](#results/findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
 
 ### Project Overview
 
